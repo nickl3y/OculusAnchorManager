@@ -2,7 +2,7 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "0.1",
-	"FriendlyName": "OculusAnchorCalibration",
+	"FriendlyName": "OculusAnchorManager",
 	"Description": "",
 	"Category": "Virtual Reality",
 	"CreatedBy": "Nick Zhirnov",
@@ -10,10 +10,10 @@
 	"DocsURL": "https://github.com/nickl3y/SharedAnchorCallibration",
 	"MarketplaceURL": "https://github.com/nickl3y/SharedAnchorCallibration",
 	"SupportURL": "https://nickole1.itch.io/",
+	"EngineVersion": "5.3.0",
 	"CanContainContent": true,
 	"IsBetaVersion": true,
-	"IsExperimentalVersion": false,
-	"Installed": false,
+	"Installed": true,
 	"Plugins": [
 		{
 			"Name": "AndroidFileServer",
