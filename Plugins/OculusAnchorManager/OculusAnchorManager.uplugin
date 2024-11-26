@@ -18,6 +18,11 @@
 		{
 			"Name": "AndroidFileServer",
 			"Enabled": true
+		},
+		{
+			"Name": "OculusXR",
+			"Enabled": true
 		}
-	]
+	],
+	"IsExperimentalVersion": false
 }
