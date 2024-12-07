@@ -1,3 +1,12 @@
+OCULUS ANCHOR MANAGER
+![Icon128](https://github.com/user-attachments/assets/284f833f-29f6-4085-8a6d-987bd90d3d15)
+
+
+
+
+![1207 (1)](https://github.com/user-attachments/assets/5f417ac8-fa51-497a-9534-5a97184c1858)
+
+
 project settings
 
 1. android - UseExternalFileDir=true ![изображение](https://github.com/user-attachments/assets/0e182084-1b04-4405-9863-13affe84eab2)
