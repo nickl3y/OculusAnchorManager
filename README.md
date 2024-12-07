@@ -4,7 +4,6 @@ OCULUS ANCHOR MANAGER
 
 
 
-
 ![1207 (1)](https://github.com/user-attachments/assets/5f417ac8-fa51-497a-9534-5a97184c1858)
 
 project settings
