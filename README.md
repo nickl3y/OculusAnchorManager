@@ -6,8 +6,6 @@ OCULUS ANCHOR MANAGER
 
 
 ![1207 (1)](https://github.com/user-attachments/assets/5f417ac8-fa51-497a-9534-5a97184c1858)
-
-
 project settings
 
 1. android - UseExternalFileDir=true ![изображение](https://github.com/user-attachments/assets/0e182084-1b04-4405-9863-13affe84eab2)
