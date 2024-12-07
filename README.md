@@ -11,6 +11,8 @@ project settings
 1. android - UseExternalFileDir=true 
 
 ![изображение](https://github.com/user-attachments/assets/0e182084-1b04-4405-9863-13affe84eab2)
+
+
 2. platforms/android/ = extra permissions: WRITE_EXTERNAL_STORAGE, READ_EXTERNAL_STORAGE ![изображение](https://github.com/user-attachments/assets/35ce264c-40ce-4b30-b4fa-c6691d2ec675)
 
 
