@@ -21,10 +21,6 @@ OculusAnchorManager — это плагин для Unreal Engine 5, предна
     Скопируйте папку с плагином в папку Plugins вашего проекта Unreal Engine 5.
     Активируйте плагин в редакторе Unreal Engine через меню плагинов.
 
-Документация:
-Для подробной информации и примеров использования см. документацию в проекте.
-
-
 ![1207 (1)](https://github.com/user-attachments/assets/5f417ac8-fa51-497a-9534-5a97184c1858)
 
 project settings
